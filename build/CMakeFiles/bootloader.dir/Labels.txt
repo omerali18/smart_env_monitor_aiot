@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/moham/Desktop/AES ESP works/AES Assignments/Mini Project/proj-file/Github file/smart_env_monitor_aiot/build/CMakeFiles/bootloader
+C:/Users/moham/Desktop/AES ESP works/AES Assignments/Mini Project/proj-file/Github file/smart_env_monitor_aiot/build/CMakeFiles/bootloader.rule
+C:/Users/moham/Desktop/AES ESP works/AES Assignments/Mini Project/proj-file/Github file/smart_env_monitor_aiot/build/CMakeFiles/bootloader-complete.rule
+C:/Users/moham/Desktop/AES ESP works/AES Assignments/Mini Project/proj-file/Github file/smart_env_monitor_aiot/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/moham/Desktop/AES ESP works/AES Assignments/Mini Project/proj-file/Github file/smart_env_monitor_aiot/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/moham/Desktop/AES ESP works/AES Assignments/Mini Project/proj-file/Github file/smart_env_monitor_aiot/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/moham/Desktop/AES ESP works/AES Assignments/Mini Project/proj-file/Github file/smart_env_monitor_aiot/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/moham/Desktop/AES ESP works/AES Assignments/Mini Project/proj-file/Github file/smart_env_monitor_aiot/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/moham/Desktop/AES ESP works/AES Assignments/Mini Project/proj-file/Github file/smart_env_monitor_aiot/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/moham/Desktop/AES ESP works/AES Assignments/Mini Project/proj-file/Github file/smart_env_monitor_aiot/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

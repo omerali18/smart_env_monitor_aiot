@@ -1,0 +1,13 @@
+CMake Error at C:/Espressif/frameworks/esp-idf-v5.4/tools/cmake/build.cmake:610 (message):
+  WARNING: Component "espressif/esp-rainmaker" not found
+
+  WARNING: Component "espressif/wifi-provisioning" not found
+
+  ERROR: Because project depends on espressif/wifi-provisioning (*) which
+  doesn't match any versions, version solving failed.
+
+Call Stack (most recent call first):
+  C:/Espressif/frameworks/esp-idf-v5.4/tools/cmake/project.cmake:710 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+

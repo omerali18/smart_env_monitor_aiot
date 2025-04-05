@@ -1,0 +1,9 @@
+-- Component directory C:/Users/moham/Desktop/AES ESP works/AES Assignments/Mini Project/proj-file/Github file/smart_env_monitor_aiot/components/ssd1306 does not contain a CMakeLists.txt file. No component will be added
+-- ccache will be used for faster recompilation
+-- git rev-parse returned 'fatal: not a git repository (or any of the parent directories): .git'
+-- Could not use 'git describe' to determine PROJECT_VER.
+-- Building ESP-IDF components for target esp32c3
+NOTICE: Dependencies lock doesn't exist, solving dependencies.
+NOTICE: Using component placed at C:\Users\moham\Desktop\AES ESP works\AES Assignments\Mini Project\proj-file\Github file\smart_env_monitor_aiot\components\ssd1306 for dependency "ssd1306", specified in C:\Users\moham\Desktop\AES ESP works\AES Assignments\Mini Project\proj-file\Github file\smart_env_monitor_aiot\main\idf_component.yml
+...HINT: Please check manifest file of the following component(s): main
+-- Configuring incomplete, errors occurred!

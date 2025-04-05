@@ -1,0 +1,6 @@
+dependencies:
+  esp-rainmaker: "*"
+  wifi-provisioning: "*"
+  achimpieters/esp32-dht: "^1.0.2"
+  ssd1306:
+    path: C:\Users\moham\Desktop\AES ESP works\AES Assignments\Mini Project\proj-file\Github file\smart_env_monitor_aiot/components/ssd1306
